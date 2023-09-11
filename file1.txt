@@ -1,0 +1,3 @@
+This is the first line without git
+this is the second line without git 
+this is the third line without git
